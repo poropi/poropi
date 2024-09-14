@@ -20,6 +20,13 @@ I am currently employed in the system development department, with a broad skill
 
 ## 🏆 Skills and Certifications
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poropi&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=poropi&theme=onedark&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=poropi&theme=onedark&column=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 I possess a wide range of IT certifications and am proficient in various technologies.
 
 - **IPA Information Security Management**
