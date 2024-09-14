@@ -1,60 +1,89 @@
-# Colonel Poropi (Poropi)
+# 🏎️ Colonel Poropi (Poropi)
 
-<img width="50%" src="https://github.com/user-attachments/assets/3f88acc2-8aea-4afc-9a58-cb58a3813821"/>
+<img width="50%" src="https://private-user-images.githubusercontent.com/4892112/367514939-3f88acc2-8aea-4afc-9a58-cb58a3813821.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYzMjA4MzcsIm5iZiI6MTcyNjMyMDUzNywicGF0aCI6Ii80ODkyMTEyLzM2NzUxNDkzOS0zZjg4YWNjMi04YWVhLTRhZmMtOWE1OC1jYjU4YTM4MTM4MjEucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDkxNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA5MTRUMTMyODU3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ODRmOTljZDU4NTNkODM2MjY5MmI3ZTE2OTY3N2I4ZWM1NmIyMzcyNzVhNzkzZjQ2ZGU5N2NhMDBlZGRhYzRjOSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.WVIbSenufyyQ9GYNndwpPjjoHAE7ydelgSL9Rga2Tcc"/>
+
+Hello! I’m **Colonel Poropi**, a passionate developer and motorsports enthusiast. I specialize in **iOS/Android app development** and **React-based frontend**.  
+Outside of programming, I compete in **Gymkhana** with my beloved **Suzuki Swift Sport**. Whether it’s coding or racing, I give it my all! 😎
+
+---
 
 ## 🚀 About Me
 
-I'm Colonel Poropi, born in 1975 and currently living in Kanagawa, Japan.  
-I work as a **programmer**, specializing in **iOS/Android app development** and **React**-based web frontend development.
+- 🗺️ **Location**: Kanagawa, Japan
+- 🎂 **Birthday**: November 3, 1975 (Scorpio)
+- 🔧 **Occupation**: Programmer (System Development Department)
+- 💍 **Marital Status**: Married
+- ⚔️ **Martial Arts**: Aikido, 2nd degree black belt
+- 🎮 **Hobbies**: Games (shooting), anime, motorsports, Super Sentai, Kamen Rider
+- 🔑 **Fun Fact**: I love hacking, and I’m also working on some side hustles to fuel my Gymkhana passion.
 
-- I compete in **Gymkhana** driving competitions with my beloved **Suzuki Swift Sport (ZC32S)**.
-- I hold a **second-degree black belt in Aikido** and have extensive experience in the IT field.
-- My hobbies include **gaming, anime, Super Sentai, Kamen Rider series**, and more.
+---
 
-## 💼 Work Experience
+## 🔥 My Tech Stack
 
-I am currently employed in the system development department, with a broad skill set spanning both app and web system development.
+**Languages**:  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-- **iOS / Android app development**
-- **Web frontend development with React**
+**Frameworks & Tools**:  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-## 🏆 Skills and Certifications
+---
+
+## 🏆 Certifications
+
+Here are some of the certifications I’ve earned throughout my career:
+
+- **IPA Information Security Management**
+- **IPA Applied Information Technology Engineer**
+- **OESF Certified Android Application Developer**
+- **Oracle Master 11g (Silver)**
+- **XML Master V2 (BASIC)**
+- **Sun Certified Java Programmer**
+- **Oracle PL/SQL (Silver)**
+
+---
+
+## 🏎 My Motorsports Journey
+
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/3db01155-67e2-4f9e-a264-4d4eeefe76d6">
+
+
+I’ve been driving my **Suzuki Swift Sport (ZC32S)** for over 10 years. In 2022, I fully committed to Gymkhana, and I’m competing in the **PN7 class** of regional championships. When I'm not coding, I’m fine-tuning my skills on the race track. 🏁
+
+---
+
+## ⚔ Martial Arts
+
+I hold a **2nd-degree black belt** in Aikido, though I’ve been out of practice for a while. These days, I’m focusing more on indoor training and fitness to stay in shape.
+
+---
+
+## 🎮 Personal Interests
+
+- **Games**: My favorite genre is **shooting games**. Always on the lookout for new challenges!
+- **Anime & Tokusatsu**: I’m a huge fan of **Super Sentai**, **Kamen Rider**, **Magical Girl Lyrical Nanoha**, and **Gundam** series.
+- **Hacking**: I enjoy exploring security and system analysis on the side.
+
+---
+
+## 📫 Contact Me
+
+If you'd like to know more about me or check out my work, feel free to reach out or explore my projects on GitHub.
+
+- GitHub: [github.com/poropi](https://github.com/poropi)
+
+---
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poropi&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=poropi&theme=onedark&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=poropi&theme=onedark&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-I possess a wide range of IT certifications and am proficient in various technologies.
-
-- **IPA Information Security Management**
-- **IPA Applied Information Technology Engineer**
-- **OESF Certified Android Application Developer**
-- **Sun Certified Java Programmer**
-- **Oracle Master 11g (Silver)**
-- **Oracle PL/SQL (Silver)**
-- **XML Master V2 (BASIC)**
-- **Bookkeeping Level 3**
-
-## 🏎 Personal Interests
-
-- **Gymkhana**: Competing in the PN7 class with my Suzuki Swift.
-- **Hacking**: Interested in security and system analysis.
-- **Gaming**: Particularly skilled in **shooting games**.
-- **Anime & Tokusatsu**: A huge fan of **Super Sentai**, **Kamen Rider**, **Magical Girl Lyrical Nanoha**, and **Gundam** series.
-
-## 🚗 My Car
-
-I’ve been driving my beloved **ZC32S Swift Sport** for over 10 years. I had it tuned into a PN class vehicle by a friend, and since 2022, I’ve been actively competing in Gymkhana, particularly in the PN7 class of the regional championships.
-
-## ⚔ Martial Arts
-
-In the past, I seriously studied Aikido and earned a **second-degree black belt**. Though I’ve had a long break, I’m now back to indoor training and working on my fitness.
-
-## 📫 Contact
-
-If you'd like to know more about Colonel Poropi, feel free to check out my code and projects on GitHub.
-
-- GitHub: [github.com/poropi](https://github.com/poropi)
