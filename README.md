@@ -1,8 +1,8 @@
 # 🏎️ Programmer Poropi (Poropi)
 
-<img width="50%" src="https://private-user-images.githubusercontent.com/4892112/367514939-3f88acc2-8aea-4afc-9a58-cb58a3813821.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYzMjA4MzcsIm5iZiI6MTcyNjMyMDUzNywicGF0aCI6Ii80ODkyMTEyLzM2NzUxNDkzOS0zZjg4YWNjMi04YWVhLTRhZmMtOWE1OC1jYjU4YTM4MTM4MjEucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDkxNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA5MTRUMTMyODU3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ODRmOTljZDU4NTNkODM2MjY5MmI3ZTE2OTY3N2I4ZWM1NmIyMzcyNzVhNzkzZjQ2ZGU5N2NhMDBlZGRhYzRjOSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.WVIbSenufyyQ9GYNndwpPjjoHAE7ydelgSL9Rga2Tcc"/>
+<img width="50%" src="https://github.com/user-attachments/assets/9c7e62d7-acb4-4756-9cba-edf18a049293"/>
 
-Hello! I’m **Colonel Poropi**, a passionate developer and motorsports enthusiast. I specialize in **iOS/Android app development** and **React-based frontend**.  
+Hello! I’m **Programmer Poropi**, a passionate developer and motorsports enthusiast. I specialize in **iOS/Android app development** and **React-based frontend**.  
 Outside of programming, I compete in **Gymkhana** with my beloved **Suzuki Swift Sport**. Whether it’s coding or racing, I give it my all! 😎
 
 ---
